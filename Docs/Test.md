@@ -2,3 +2,4 @@
 ## Head 2
 ### Head 3
 ![Img](image.jpg)
+![Img](image.png)
